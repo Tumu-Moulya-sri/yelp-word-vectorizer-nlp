@@ -1,7 +1,6 @@
 # Yelp Word Vectorizer Experiment
 
 
-Comparative study of BoW, TF-IDF, Word2Vec, GloVe and BERT on Yelp Review dataset.
 
 Comparative study of **BoW, TF-IDF, Word2Vec, GloVe, and BERT** on the Yelp Review Full dataset (5-class sentiment classification).
 
