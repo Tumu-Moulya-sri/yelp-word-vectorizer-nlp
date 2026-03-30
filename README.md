@@ -1,4 +1,10 @@
 # Yelp Word Vectorizer Experiment
+# Yelp Word Vectorizer Experiment
+
+**📌 Direct Link to Notebook:**  
+[Click here to view full code → yelp_word_vectorizer_experiment.ipynb](https://github.com/tumu-moulya-sri/yelp-word-vectorizer-nlp/blob/main/yelp_word_vectorizer_experiment.ipynb)
+
+Comparative study of BoW, TF-IDF, Word2Vec, GloVe and BERT on Yelp Review dataset.
 
 Comparative study of **BoW, TF-IDF, Word2Vec, GloVe, and BERT** on the Yelp Review Full dataset (5-class sentiment classification).
 
